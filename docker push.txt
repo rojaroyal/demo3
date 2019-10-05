@@ -1,0 +1,4 @@
+docker push roja123456/demoimg:latest
+  502  docker build -t roja123456/demoimg
+  503  docker commit demo roja123456/demoimg
+  504  docker push roja123456/demoimg:latest
